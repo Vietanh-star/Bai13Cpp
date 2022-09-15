@@ -40,5 +40,7 @@ int main(){                 // g++ -o main.exe main.cpp System.cpp Employee.cpp 
         }
     }
     // thu cho main 2
+    // them cho ucu2
+
     return 0;
 }
